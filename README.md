@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahir
-- 👀 I’m interested in CP.
-- 🌱 I’m currently learning web development.
+- 👀 I’m interested in blockchain development.
+- 🌱 I’m currently learning web3.
 - 📫 How to reach me mahir21263@iiitd.ac.in
 Toolbox
 
