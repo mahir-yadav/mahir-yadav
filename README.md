@@ -2,8 +2,6 @@
 
 ### 🚀 2022 Goals: Contribute more to Open Source projects
 
-![](https://komarev.com/ghpvc/?username=Aaryan-R-S&color=10ba00)
-
 [![Mahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahir-yadav&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
