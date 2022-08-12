@@ -8,8 +8,7 @@
 <img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/css-3.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/html-1.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/c.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/java-4.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/python-4.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/linux-tux.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/vim.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/git.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/react-2.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/nodejs.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg' width="50" height="50" >
 
 - 👋 Hi, I’m @mahir
-- 👀 I’m interested in blockchain development.
-- 🌱 I’m currently learning web3.
+- 👀 I’m exploring new things.
 - 📫 How to reach me mahir21263@iiitd.ac.in
 - ✉️ You can reach out to me [Here](https://www.instagram.com/mahir._3/)
 <!---
