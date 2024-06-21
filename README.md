@@ -1,6 +1,5 @@
 ### **Heyya!! I'm Mahir** 👋
 
-### 🚀 2022 Goals: Contribute more to Open Source projects
 
 
 
